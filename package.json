@@ -1,0 +1,26 @@
+{
+  "name": "TEST_JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages-d TEST_JS"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthieuBA/TEST_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://matthieuBA.github.io/TEST_JS"
+
+  "bugs": {
+    "url": "https://github.com/matthieuBA/TEST_JS/issues"
+  },
+}
